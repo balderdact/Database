@@ -1,8 +1,19 @@
-This directory contains a skeleton for CS61B Project 1.
+USAGE:
+
+-To start the program:
+1) Run ‘make’ from the ‘Database’ directory.
+2) Run ‘java db61b.Main’ from the ‘Database’ directory.
+
+-See ‘specifications.pdf’ for a list of UI commands and an overview for this
+project. 
+
 
 CONTENTS:
 
 ReadMe                  This file.
+
+specifications.pdf      Includes project guidelines and a list of all of the UI
+                        commands. 
         
 Makefile                A makefile (for the 'make' program) that will compile
                         your files and run tests.  You must turn in a Makefile,
